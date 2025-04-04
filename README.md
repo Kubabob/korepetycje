@@ -20,6 +20,6 @@ Używając konsoli można zrobić to używając następujących komend.
 
 ```bash
 cd korepetycje
-uv install
+uv sync
 ```
 
